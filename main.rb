@@ -6,7 +6,3 @@ def substring(word, dictionary)
     result
   end
 end
-
-test = ["below"]
-dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
-puts substring("Howdy partner, sit down! How's it going?", dictionary)
